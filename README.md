@@ -1,3 +1,5 @@
+gregko - 5/6/2021 - forked this project and updated to the latest version of Android Studio, as the author no longer supports it and my app uses it.
+
 # DEPRECATED - no longer actively maintained
 
 # Tray - a SharedPreferences replacement for Android
