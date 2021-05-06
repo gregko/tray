@@ -16,9 +16,9 @@
 
 package net.grandcentrix.tray.core;
 
-import net.grandcentrix.tray.TrayPreferences;
+import androidx.annotation.NonNull;
 
-import android.support.annotation.NonNull;
+import net.grandcentrix.tray.TrayPreferences;
 
 /**
  * Created by pascalwelsch on 11/20/14.
